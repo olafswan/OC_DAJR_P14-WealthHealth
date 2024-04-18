@@ -1,7 +1,47 @@
-#### Projet 13 de la formation "Développeur d'application - JavaScript React" par OpenClassrooms
+#### Projet 14 de la formation "Développeur d'application - JavaScript React" par OpenClassrooms
 
-# Utilisez une API pour un compte utilisateur bancaire avec React
+# Faites passer une librairie jQuery vers React
 
+### Qu’allez-vous apprendre dans ce projet ?
+
+Dans ce projet, vous participerez à la conversion d’une application de jQuery vers React 
+pour une grande société financière.
+
+Votre mission principale sera de refondre les pages clés de l’application en remplaçant 
+un **plugin jQuery spécifique** par un **composant React**.
+Cela impliquera une compréhension approfondie des deux technologies et leur interaction.
+
+Vous serez chargé de mesurer les **performances** de l'application avant et après la conversion. 
+Cette analyse de performance vous permettra de quantifier les avantages de la migration vers React.
+
+La documentation du composant converti sera une étape importante de votre travail. Cela 
+comprendra la rédaction de **documents techniques** détaillant l'architecture du composant, 
+son fonctionnement, et les raisons de sa conception.
+
+Vous livrerez les résultats de votre travail avec des rapports détaillés, y compris des 
+analyses de performance et des explications sur les choix techniques effectués pendant la conversion.
+
+### En quoi ces compétences seront-elles importantes pour votre carrière ? 
+ 
+La migration d'une application de jQuery vers React est un exemple concret de la manière de 
+réduire la dette technique et d'améliorer la performance d'une application web. 
+
+La maîtrise de ces techniques est essentielle pour les développeurs front-end, surtout dans 
+un contexte où la modernisation des applications existantes est souvent nécessaire. 
+
+La capacité à documenter techniquement vos travaux est également essentielle pour la 
+communication au sein des équipes de développement et pour assurer une maintenance efficace.
+
+### Objectifs pédagogiques
+
+* Analyser la performance d'une application web
+* Déployer une application front-end
+* Refondre une application pour réduire la dette technique
+* Mettre en place son environnement Front-End
+* Produire de la documentation technique pour une application
+
+***
+  
 ### Scénario :
 
 Vous travaillez pour le département technologique d'une grande société financière, WealthHealth. 
@@ -173,12 +213,14 @@ Jade
 
 Ça y est, vous avez toutes les informations dont vous avez besoin. Maintenant, le plus dur sera de choisir quel plugin jQuery convertir !
 
+***
+
 ### Livrables :
 1. Un fichier au format TXT ou PDF contenant les liens vers :
-  - votre code source sur GitHub de la bibliothèque ReactJS converti depuis le plugin jQuery
+   - votre code source sur GitHub de la bibliothèque ReactJS converti depuis le plugin jQuery
 sélectionné (un seul plugin doit être converti) ;
-  - votre projet complet sur GitHub ;
-  - la bibliothèque React convertie publiée sur npm (ou GitHub Packages) ;
+   - votre projet complet sur GitHub ;
+   - la bibliothèque React convertie publiée sur npm (ou GitHub Packages) ;
 2. Un rapport de performance LightHouse au format PDF de HRnet fonctionnant avant et après la
 conversion de la bibliothèque. 
 
